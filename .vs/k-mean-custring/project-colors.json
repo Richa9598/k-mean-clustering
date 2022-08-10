@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b4bc739-9a74-4414-a0ec-0e1588130bd5": {
+      "ProjectGuid": "5b4bc739-9a74-4414-a0ec-0e1588130bd5",
+      "DisplayName": "k-mean-custring",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
